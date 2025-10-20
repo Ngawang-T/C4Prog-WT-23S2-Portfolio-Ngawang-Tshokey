@@ -1,0 +1,29 @@
+
+header {
+    padding: 70px;
+    background-color: #f1f1f1;
+    display: grid;
+    margin: auto;
+}
+
+nav {
+    padding: 50px;
+    background-color: #f1f1f1;
+    display: grid;
+    margin: auto;
+}
+
+
+main {
+    padding: 200px;
+    background-color: #f1f1f1;
+    display: grid;
+    margin: 0 auto;
+}
+
+footer {
+    padding: 90px;
+    background-color: #f1f1f1;
+    display: grid;
+    margin: auto;
+}
