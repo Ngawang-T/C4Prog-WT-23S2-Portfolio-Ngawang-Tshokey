@@ -1,3 +1,44 @@
+/*desktop layout*/
+
+header {
+    padding: 30px;
+    background-color: #f1f1f1;
+    display: grid;
+    margin: auto;
+}
+
+nav {
+    padding: 20px;
+    background-color: #f1f1f1;
+    display: grid;
+    margin: auto;
+}
+
+
+main {
+    padding: 200px;
+    background-color: #f1f1f1;
+    display: grid;
+    margin: 0 auto;
+    max-width: 50%;
+    border: 3px black;
+}
+
+footer {
+    padding: 50px;
+    background-color: #f1f1f1;
+    display: grid;
+    margin: auto;
+}
+
+aside {
+    padding: 20px;
+    background-color: #f1f1f1;
+    display: grid;
+    margin: auto;
+}
+
+/*Base mobile layout*/
 
 header {
     padding: 70px;
@@ -5,14 +46,6 @@ header {
     display: grid;
     margin: auto;
 }
-
-nav {
-    padding: 50px;
-    background-color: #f1f1f1;
-    display: grid;
-    margin: auto;
-}
-
 
 main {
     padding: 200px;
